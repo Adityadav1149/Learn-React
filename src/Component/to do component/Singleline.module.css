@@ -1,0 +1,17 @@
+.Appname{
+  font-weight: 700;
+  padding-bottom: 30px;
+}
+
+.Singlebox{
+  margin: 10px 5px;
+}
+
+.Text-input{
+  text-align: start;
+  width: auto;
+}
+
+.Todobtn{
+  min-width: 80px;
+}

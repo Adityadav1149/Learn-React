@@ -1,0 +1,14 @@
+.borderbtn{
+  width: 280px;
+  margin: auto;
+  padding: 5px;
+}
+
+.btncls{
+  width: 75px;
+  height: 75px;
+  margin: 3px;
+  border-radius: 4px;
+  font-weight: 500;
+  font-size: 25px;
+}

@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.TodoContainer{
+  background: #ebe7e7;
+  padding: 20px;
+}
+
+.container{
+  text-align: start;
+}
+
+
+.BharatContainer{
+  background: #f7eaea;
+  text-align: center;
+  padding: 20px;
+}
+
+.HealthyContainer{
+
+  padding: 20px;
+}
+
+.CalculatorContainer{
+  padding: 20px;
+  text-align: center;
+  background: #e5f4f6;
+}
